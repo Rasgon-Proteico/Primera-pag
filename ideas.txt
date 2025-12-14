@@ -1,0 +1,22 @@
+Hola yo del futuro, aquì te dejo algunas ideas que podrìan ser ùtiles:
+primero executas : ---- live-server ---- y después de ello pones el nombre de archivo a ejecutar
+buscar ideas para meter al portafolio
+poner la calculadora de precios para impreasion en 3d
+
+si se usa la propiedad de __ title="" __ en html, se puede poner un texto que aparecera al poner el mouse encima del elemento
+preferentemente usarlo para para imàgenes y así ayudar a la accesibilidad de las persobas con discapacidades visuales
+
+para las imagenes usar la propiedad alt="" para describir la imagen y ayudar a la accesibilidad, en caso de que la imagen no quiera cargar
+
+para cuando usamos <a href=""> </a> y quiero dar a una carpeta para atrás, se usa ../
+
+para hacer saltos de linea en html se usa <br>
+
+si hay un algo en alguna carpeta a parte se usa el retroceso de carpeta y se va nuevamente a la direrección requerida
+
+<input type="text" required>
+<input type="text" name="nombre" placeholder="Escribe tu nombre">   <-- Solo un input por cada name, no se puede repetir
+
+
+
+
