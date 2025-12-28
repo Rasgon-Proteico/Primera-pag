@@ -1,0 +1,29 @@
+//Para los enlaces
+a{
+
+    color: blue;
+    text-decoration: none;
+    
+}
+
+.top{
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.enlace{
+
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 0.5;
+    text-transform: none;
+    color: darkblue;
+}
+
+.b1{
+    flex-direction: row;
+    widht: 100px;
+    height: 250px;
+}

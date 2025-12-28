@@ -1,0 +1,19 @@
+
+h1{
+  color:blue;
+}
+
+.prueba{
+  color:red;
+}
+.se{
+  color:green;
+}
+
+#IDS{
+  color:orange;  //ID Selector, no se recomienda
+}
+
+li{
+  color:purple;
+}

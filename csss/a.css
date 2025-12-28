@@ -1,0 +1,19 @@
+p{
+color: red;
+}
+h1{
+  color: black;
+  background-color: grey;
+  font-family: "Fira Code",cascadia;
+  text-align: center;
+
+}
+.para{
+  color: green;
+  font-family: "Fira Code",cascadia;
+  font-size: 20px;
+  font-weight:500;  
+  font-style: oblique 20deg;
+  text-align: justify;
+
+}
